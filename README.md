@@ -1,4 +1,4 @@
-# Image Processing using Tensorflow Keras API
+# Introduction to Computer Vision
 
 Komatik UGM, October 28, 2023 - Daniyal Kautsar
 
