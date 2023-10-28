@@ -1,21 +1,21 @@
 # Image Processing using Tensorflow Keras API
 
-GDSC UGM, Febuary 7, 2023 - Daniyal Kautsar
+Komatik UGM, October 28, 2023 - Daniyal Kautsar
 
 ---
 
 ## Materials:
-[PPT Slides](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/Image_Processing_using_Keras_API.pdf)
+[PPT Slides](https://github.com/mdaniyalk/intro-comviz-komatik/blob/main/Intro_to_CV.pdf)
 
 ## Hands-on Lab:
 
-### Cats vs Dogs Classification [github](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/Cats_vs_Dogs_hands_on.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/image-processing-gdsc-ugm/blob/main/Cats_vs_Dogs_hands_on.ipynb)
+### Cats vs Dogs Classification [github](https://github.com/mdaniyalk/intro-comviz-komatik/blob/main/Cats_vs_Dogs_hands_on.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/intro-comviz-komatik/blob/main/Cats_vs_Dogs_hands_on.ipynb)
 
 `You're gonna have an introduction to CNN using the famous Cats vs Dogs dataset to train a model that can classify images of dogs from images of cats.`
 
 ## Practice Lab:
 
-### Chest Cancer Detection [github](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/chest_cancer_detection.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/image-processing-gdsc-ugm/blob/main/chest_cancer_detection.ipynb)
+### Chest Cancer Detection [github](https://github.com/mdaniyalk/intro-comviz-komatik/blob/main/chest_cancer_detection.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/intro-comviz-komatik/blob/main/chest_cancer_detection.ipynb)
 
 `You're gonna have a practice using CT-Scan Image dataset to train a Transfer Learning model using Functional API and pre-trained MobileNetv2.`
 
